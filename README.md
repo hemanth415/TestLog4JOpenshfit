@@ -3,6 +3,8 @@
 
 # Configuring Log4J in Openshift
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0429cdcc3fcd438a9a57358e033148dd)](https://www.codacy.com/app/hemanth.vs12/TestLog4JOpenshfit?utm_source=github.com&utm_medium=referral&utm_content=hemanth415/TestLog4JOpenshfit&utm_campaign=badger)
+
 This project provides an instight on configuring Log4j for an Java application on Openshift.
 
 ## Video Tutorial
